@@ -89,8 +89,18 @@ const higinio = {
 
 <div align="center">
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HiginioSosa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=A5B4FC&text_color=C9D1D9) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HiginioSosa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9) |
-|---|---|
+<!-- 💡 Si las cards no cargan: despliega tu propia instancia en https://vercel.com desde https://github.com/anuraghazra/github-readme-stats y reemplaza la URL base -->
+
+<table>
+  <tr>
+    <td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HiginioSosa&theme=tokyonight" alt="GitHub Stats" /></td>
+    <td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HiginioSosa&theme=tokyonight" alt="Top Languages" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HiginioSosa&theme=tokyonight" alt="Most Commit Language" /></td>
+    <td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HiginioSosa&theme=tokyonight&utcOffset=-6" alt="Productive Time" /></td>
+  </tr>
+</table>
 
 </div>
 
